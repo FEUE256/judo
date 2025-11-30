@@ -1,0 +1,1 @@
+This is a repository for Judo Papers (like PDFs). This paper will contain the documentation for Judo. This repository also has images. Everything in this repository is printable. This documentation is meant for Judo Clubs. This is also material to § 18 in the FÈUE official prints folder. 
